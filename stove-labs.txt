@@ -1,0 +1,11 @@
+Stove Labs is a data availability layer designed to reduce blockchain storage requirements, enhancing the efficiency of the Mina Protocol.
+
+Features:
+- Reduces blockchain storage requirements
+- Enhances data availability
+- Supports Mina Protocol
+
+Website: https://stovelabs.com
+GitHub: https://github.com/stove-labs
+Twitter: @stove_labs
+Discord: discord.gg/stovelabs

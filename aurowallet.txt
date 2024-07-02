@@ -1,0 +1,12 @@
+Auro is an audited digital crypto wallet for the Mina Protocol. It ensures secure storage and transfer of Mina tokens.
+
+Key Features:
+- User-friendly interface
+- High-level security
+- Integration with Mina Protocol
+- Support for staking and delegation
+
+Website: https://aurowallet.com
+GitHub: https://github.com/aurowallet
+Twitter: @aurowallet
+Discord: discord.gg/aurowallet

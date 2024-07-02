@@ -1,0 +1,11 @@
+O(1) Labs created o1js, a TypeScript library for zk-SNARKs and zkApps, enabling developers to build zero-knowledge applications with ease.
+
+Highlights:
+- zk-SNARKs implementation
+- TypeScript based library
+- Supports Mina Protocol zkApps
+
+Website: https://o1labs.org
+GitHub: https://github.com/o1-labs
+Twitter: @o1_labs
+Discord: discord.gg/o1labs

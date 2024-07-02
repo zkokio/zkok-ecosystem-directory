@@ -1,0 +1,11 @@
+Clorio is a popular Mina wallet, designed to provide users with a secure and efficient way to manage their Mina tokens.
+
+Features:
+- Easy-to-use interface
+- Secure storage solutions
+- Supports staking and delegation
+
+Website: https://clorio.com
+GitHub: https://github.com/clorio
+Twitter: @cloriowallet
+Discord: discord.gg/clorio

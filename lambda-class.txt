@@ -1,0 +1,11 @@
+LambdaClass is a zero-knowledge state bridge from Mina to Ethereum, providing seamless interoperability between the two networks.
+
+Features:
+- Zero-knowledge proofs
+- State bridge between Mina and Ethereum
+- Enhances interoperability
+
+Website: https://lambdaclass.com
+GitHub: https://github.com/lambdaclass
+Twitter: @lambdaclass
+Discord: discord.gg/lambdaclass

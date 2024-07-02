@@ -1,0 +1,11 @@
+Paima is a Web3 Engine optimized for games, gamification, and autonomous worlds.
+
+Features:
+- Optimized for Web3 games
+- Supports gamification
+- Enables autonomous worlds
+
+Website: https://paima.com
+GitHub: https://github.com/paima
+Twitter: @paima
+Discord: discord.gg/paima
