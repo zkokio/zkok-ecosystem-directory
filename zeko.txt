@@ -1,0 +1,15 @@
+Zeko is a high-performance L2 ecosystem for zkApps, designed to enhance scalability and efficiency while maintaining security. 
+
+Zeko leverages zero-knowledge proofs to enable secure and private transactions, supporting a wide range of applications from decentralized finance to gaming. 
+
+Key features include:
+- Fast transaction finality
+- Low transaction fees
+- Robust security through zk-SNARKs
+
+Join the Zeko community to explore the potential of next-generation blockchain technology.
+
+Website: https://zeko.io
+GitHub: https://github.com/zeko/zkapp
+Twitter: @zeko_io
+Discord: discord.gg/zeko

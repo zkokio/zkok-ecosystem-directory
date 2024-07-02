@@ -1,0 +1,22 @@
+Protokit is a modular and privacy enabled application chain development framework for the MINA ecosystem. Protokit’s design was inspired by the principles behind MINA’s unique L1 protocol and its smart contracts (zkApps). Utilizing zkApps, Protokit’s app-chains provide a hybrid off/on-chain execution model, ensuring a spectrum of privacy. This streamlined approach enables developers to create privacy-enabled applications with ease.
+
+Prioritizing developers’ access to privacy, Protokit modules are implemented in Typescript, tapping into the existing Typescript ecosystem. The app-chains’ high modularity and specialization come from their Runtime, Protocol, and Sequencer modules.
+
+App-chain developers can leverage various modules:
+
+Runtime for Fungible/Non-Fungible Tokens, Vesting, Governance, etc.
+Protocol for Transaction fees, Network State, State Transitions, etc.
+Sequencer for RPC Endpoints, Mempool, Block Production, etc.
+Built with MINA’s security as a settlement layer, Protokit app-chains ensure non-custodial bridging of assets between L1<>L2/app-chain using zk-proofs.
+
+For off-chain execution, o1js facilitates generating zero knowledge proofs on the client side, ensuring the user’s address remains private. The succinct zkVM allows on-chain provable runtime modules, with support for zk-proof as arguments.
+
+Interoperability and preventing fragmentation of liquidity are key focuses, while upcoming improvements include smart contract support, transaction re-ordering, data availability, and more.
+
+More info
+Website https://protokit.dev
+GitHub https://github.com/proto-kit/starter-kit
+Twitter https://twitter.com/proto_kit
+Discord Channel https://discord.com/invite/AMGnGAxsKp
+
+Team members @rpanic & @maht0rz

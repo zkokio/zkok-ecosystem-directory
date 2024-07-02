@@ -1,0 +1,12 @@
+Prove statements about yourself to third parties without revealing any personal data.
+
+The app allows users to create the following proofs:
+1. Proof of age
+2. Proof of not being sanctioned by the OFAC
+3. Proof of unique human
+4. Proof of nationality
+
+Discord ID: iowxss6
+@ Twitter / X account: @RaidasG
+Website URL: https://idmask.xyz
+Github: https://github.com/id-Mask
