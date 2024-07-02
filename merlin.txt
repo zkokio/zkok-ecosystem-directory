@@ -1,0 +1,11 @@
+Merlin is a zk-rollup solution for the Mina Protocol, aimed at enhancing scalability and reducing transaction costs.
+
+Features:
+- zk-rollup solution
+- Enhances scalability
+- Reduces transaction costs
+
+Website: https://merlin.com
+GitHub: https://github.com/merlin
+Twitter: @merlin_zk
+Discord: discord.gg/merlin

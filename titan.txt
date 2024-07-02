@@ -1,0 +1,11 @@
+Titan is a scaling solution for the Mina Protocol, using zk-rollups to increase throughput and efficiency.
+
+Features:
+- Scaling solution
+- Uses zk-rollups
+- Increases throughput
+
+Website: https://titan.com
+GitHub: https://github.com/titan
+Twitter: @titan_zk
+Discord: discord.gg/titan

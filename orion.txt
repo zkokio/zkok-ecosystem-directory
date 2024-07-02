@@ -1,0 +1,11 @@
+Orion provides off-chain data solutions for the Mina Protocol, ensuring data integrity and availability.
+
+Features:
+- Off-chain data solutions
+- Ensures data integrity
+- Supports data availability
+
+Website: https://orion.com
+GitHub: https://github.com/orion
+Twitter: @orion_data
+Discord: discord.gg/orion

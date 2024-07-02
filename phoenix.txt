@@ -1,0 +1,11 @@
+Phoenix is developing secure and efficient zk-SNARK based smart contracts for the Mina Protocol.
+
+Features:
+- zk-SNARK based smart contracts
+- Secure and efficient
+- Supports Mina Protocol
+
+Website: https://phoenix.com
+GitHub: https://github.com/phoenix
+Twitter: @phoenix_zk
+Discord: discord.gg/phoenix

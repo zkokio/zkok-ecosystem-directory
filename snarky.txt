@@ -1,0 +1,11 @@
+Snarky is a toolset for building zk-SNARKs, providing developers with the resources to create secure and private applications.
+
+Features:
+- zk-SNARKs toolset
+- Developer resources
+- Enhances security and privacy
+
+Website: https://snarky.com
+GitHub: https://github.com/snarky
+Twitter: @snarky_zk
+Discord: discord.gg/snarky

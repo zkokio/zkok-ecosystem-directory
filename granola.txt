@@ -1,0 +1,11 @@
+Granola is implementing on-chain voting solutions for the Mina Protocol, enabling secure and transparent decision-making.
+
+Features:
+- On-chain voting
+- Secure and transparent
+- Supports Mina Protocol
+
+Website: https://granola.com
+GitHub: https://github.com/granola
+Twitter: @granola_voting
+Discord: discord.gg/granola

@@ -1,0 +1,11 @@
+Kepler is creating decentralized storage solutions for the Mina Protocol, focusing on security and scalability.
+
+Features:
+- Decentralized storage
+- Focuses on security
+- Scalable solutions
+
+Website: https://kepler.com
+GitHub: https://github.com/kepler
+Twitter: @kepler_storage
+Discord: discord.gg/kepler

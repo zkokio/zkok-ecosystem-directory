@@ -1,0 +1,11 @@
+Nova is developing zk-SNARK based identity verification solutions for the Mina Protocol.
+
+Features:
+- Identity verification
+- zk-SNARK based
+- Enhances security
+
+Website: https://nova.com
+GitHub: https://github.com/nova
+Twitter: @nova_id
+Discord: discord.gg/nova

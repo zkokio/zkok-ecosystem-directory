@@ -1,0 +1,11 @@
+Atlas is a cross-chain bridge solution for the Mina Protocol, enabling interoperability with other blockchains.
+
+Features:
+- Cross-chain bridge
+- Enhances interoperability
+- Supports Mina Protocol
+
+Website: https://atlas.com
+GitHub: https://github.com/atlas
+Twitter: @atlas_bridge
+Discord: discord.gg/atlas
